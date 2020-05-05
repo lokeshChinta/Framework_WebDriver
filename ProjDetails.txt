@@ -10,3 +10,4 @@ Added Framework Components like
 
 In Addition to that Reports will be generated in Reports Folder
 Screenshots are available in Screenshots folder 
+Properties file needs to be added in the framework
