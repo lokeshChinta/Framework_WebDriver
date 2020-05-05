@@ -8,4 +8,5 @@ Added Framework Components like
 - Runner File
 - Listener class to provide the Reports 
 
-In Addition to that Reports will be geneared in Reports Folder 
+In Addition to that Reports will be generated in Reports Folder
+Screenshots are available in Screenshots folder 
